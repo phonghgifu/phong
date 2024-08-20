@@ -1,0 +1,11 @@
+C:\Users\PC602\source\repos\BaiThucHanhBuoi3\Frmchinh\bin\Debug\Frmchinh.exe.config
+C:\Users\PC602\source\repos\BaiThucHanhBuoi3\Frmchinh\bin\Debug\Frmchinh.exe
+C:\Users\PC602\source\repos\BaiThucHanhBuoi3\Frmchinh\bin\Debug\Frmchinh.pdb
+C:\Users\PC602\source\repos\BaiThucHanhBuoi3\Frmchinh\obj\Debug\Frmchinh.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\BaiThucHanhBuoi3\Frmchinh\obj\Debug\Frmchinh.FrmChing.resources
+C:\Users\PC602\source\repos\BaiThucHanhBuoi3\Frmchinh\obj\Debug\Frmchinh.Properties.Resources.resources
+C:\Users\PC602\source\repos\BaiThucHanhBuoi3\Frmchinh\obj\Debug\Frmchinh.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\BaiThucHanhBuoi3\Frmchinh\obj\Debug\Frmchinh.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\BaiThucHanhBuoi3\Frmchinh\obj\Debug\Frmchinh.exe
+C:\Users\PC602\source\repos\BaiThucHanhBuoi3\Frmchinh\obj\Debug\Frmchinh.pdb
+C:\Users\PC602\source\repos\BaiThucHanhBuoi3\Frmchinh\obj\Debug\BaiTapThietKeForm.MainForm.resources
